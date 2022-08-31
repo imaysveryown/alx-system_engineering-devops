@@ -1,3 +1,2 @@
-#!/bin/bash
-readlink -f file.txt                                                                                                 
+#!/bin/bash readlink -f file.txt                                                                                                 
 /alx-system_engineering-devops/0x00-shell_basics/file.txt 
